@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"H3,H2";"MountingHole_4.3mm_M4";2;"MountingHole";;;
+2;"U6,U5";"HEADER5PIN";2;"Conn_01x05";;;
+3;"U8";"QWIIC CONNECTOR";1;"Spark Fun QWIIC";;;
+4;"JP2,JP1";"HEADER6PIN";2;"Conn_01x06";;;
+5;"U1";"Adafruit_Feather2";1;"Adafruit_Feather_HUZZAH32_ESP32";;;
+6;"J1";"2PIN_2.54_MM_JST_XHP_JST";1;"Conn_01x02";;;
+7;"U2";"2.8IN-ILI9341-SPI-LCD";1;"TFT_TOUCH_LCD_SPI_2.8IN";;;
+8;"H1";"MountingHole_12.03mm";1;"MountingHole";;;
+9;"U3";"MICROBIT_EDGE";1;"Micro:Bit_Edge_Connector";;;
+10;"U4";"HEADER 1X7PIN MALE";1;"Conn_01x07";;;
+11;"U7";"2X2";1;"Conn_02x02_Top_Bottom";;;
