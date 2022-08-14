@@ -8,4 +8,6 @@ To connect to [2.4 -3.2 inch ILI9341 LCD](http://www.lcdwiki.com/2.4inch_SPI_Mod
 
 Plug and play I2C and SPI [breakout garden](https://shop.pimoroni.com/collections/breakout-garden)
 
-Daughterboards are planned; 16340 battery, M5stack, Mikroe Click, 
+2x SG90 servos
+
+Daughterboards are planned ; 16340 battery, M5stack, Mikroe Click, Proto
