@@ -13,4 +13,4 @@ Plug and play I2C and SPI [breakout garden](https://shop.pimoroni.com/collection
 
 2x SG90 servos
 
-Daughterboards are planned ; 16340 battery, M5stack, Mikroe Click, Proto
+Daughterboards are planned ; [16340 battery, M5stack, Mikroe Click, Proto](https://github.com/rosmo-robot/Feather-Bit/blob/main/v1/daughter_concept/Readme.md)
