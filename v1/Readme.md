@@ -1,6 +1,6 @@
 A board to connect a feather to stuff.
 
-The .zip is a kicad6 projects. 
+The .zip is a kicad6 project. Gerber can be [viewed here](https://365.altium.com/files/3ABC584C-E5B4-4466-A95E-E5A257C48304?openedFrom=files)
 
 ![back](https://raw.githubusercontent.com/rosmo-robot/Feather-Bit/main/v1/face.png)
 
