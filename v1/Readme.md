@@ -16,4 +16,8 @@ Plug and play I2C and SPI [breakout garden](https://shop.pimoroni.com/collection
 
 Daughterboards are planned ; [1 M5stack, Mikroe Click, Proto](https://github.com/rosmo-robot/Feather-Bit/blob/main/v1/daughter_concept/Readme.md)
 
-For Feather like boards https://www.hlhv.nl/Webwinkel-Product-253444084/TTGO-ESP32-Dev-Module-WiFi-+-bluetooth-4MB-Flash-Development-Board-LILYGO-for-Arduino-products-that-work-with-official-Arduino-boards.html
+For Feather like boards EU https://www.hlhv.nl/Webwinkel-Product-253444084/TTGO-ESP32-Dev-Module-WiFi-+-bluetooth-4MB-Flash-Development-Board-LILYGO-for-Arduino-products-that-work-with-official-Arduino-boards.html
+
+US https://www.elecbee.com/en-23492-ESP32-Dev-Module-WiFi-bluetooth-4MB-Flash-Development-Board-for-Arduino-products-that-work-with-official-Arduino-boards
+
+US https://www.arduino-tech.com/wemos-ttgo-esp32-dev-module-wifi-bluetooth-4mb-flash/
