@@ -15,3 +15,5 @@ Plug and play I2C and SPI [breakout garden](https://shop.pimoroni.com/collection
 [16340 powerbank connector pins](https://www.aliexpress.com/item/32951637621)
 
 Daughterboards are planned ; [1 M5stack, Mikroe Click, Proto](https://github.com/rosmo-robot/Feather-Bit/blob/main/v1/daughter_concept/Readme.md)
+
+For Feather like boards https://www.hlhv.nl/Webwinkel-Product-253444084/TTGO-ESP32-Dev-Module-WiFi-+-bluetooth-4MB-Flash-Development-Board-LILYGO-for-Arduino-products-that-work-with-official-Arduino-boards.html
