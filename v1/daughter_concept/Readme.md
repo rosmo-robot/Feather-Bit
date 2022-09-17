@@ -1,3 +1,10 @@
+V1 actual 'Rosmo Pinout'
+
+6cm between the two I2C headers
+![back](https://raw.githubusercontent.com/rosmo-robot/Feather-Bit/main/v1/daughter_concept/rosmo-pinout.png)
+
+
+Below are indicative based on v0.1 'Rosmo Pinout'
 Proto
 ![back](https://raw.githubusercontent.com/rosmo-robot/Feather-Bit/main/v1/daughter_concept/proto_daughter.png)
 
