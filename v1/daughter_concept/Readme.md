@@ -5,9 +5,9 @@ V1 actual 'Rosmo Pinout'
 
 Some boards that would be nice:
 
-* GY-50 / MPU6050 IMU board
-* ESP32 Wroom camera
-* 
+* [GY-50](https://www.aliexpress.com/item/1005004575469543.html) / [GY521](https://www.aliexpress.com/item/32346328217.html) IMU board
+* [ESP32 Wroom camera](https://www.aliexpress.com/item/1005004334367429.html)
+
 
 Below are indicative based on v0.1 'Rosmo Pinout'
 Proto
