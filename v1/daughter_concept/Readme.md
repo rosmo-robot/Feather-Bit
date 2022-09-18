@@ -5,9 +5,9 @@ V1 actual 'Rosmo Pinout'
 
 Some boards that would be nice:
 
-1 [GY-50](https://www.aliexpress.com/item/1005004575469543.html) / [GY521](https://www.aliexpress.com/item/32346328217.html) IMU board
-2 [ESP32 Wroom camera](https://www.aliexpress.com/item/1005004334367429.html)
-3 [Smaller version of RP2040 BLDC driver](https://github.com/Twisted-Fields/rp2040-motor-controller)
+* [GY-50](https://www.aliexpress.com/item/1005004575469543.html) / [GY521](https://www.aliexpress.com/item/32346328217.html) IMU board
+* [ESP32 Wroom camera](https://www.aliexpress.com/item/1005004334367429.html)
+* [Smaller version of RP2040 BLDC driver](https://github.com/Twisted-Fields/rp2040-motor-controller)
 
 Below are indicative based on v0.1 'Rosmo Pinout'
 Proto
